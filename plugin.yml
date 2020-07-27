@@ -1,0 +1,6 @@
+name: ShulkerPreview
+main: me.hidden1nin.shulker.main.main
+version: 2.0
+api-version: 1.15
+author: hidden1nin
+description: quick previews
